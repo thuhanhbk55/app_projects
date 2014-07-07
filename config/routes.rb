@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  resources :microposts
+
+  resources :users
+
   resources :statuses
 
   # The priority is based upon order of creation: first created -> highest priority.
