@@ -1,0 +1,11 @@
+--2014-07-07 10:09:17--  https://toolbelt.heroku.com/apt/release.key
+Resolving toolbelt.heroku.com (toolbelt.heroku.com)... 107.22.186.187, 50.19.233.212, 23.23.227.87
+Connecting to toolbelt.heroku.com (toolbelt.heroku.com)|107.22.186.187|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1737 (1.7K) [application/octet-stream]
+Saving to: `release.key.3'
+
+     0K .                                                     100% 3.65M=0s
+
+2014-07-07 10:09:20 (3.65 MB/s) - `release.key.3' saved [1737/1737]
+
